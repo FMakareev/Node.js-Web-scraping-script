@@ -1,0 +1,21 @@
+{
+  "name": "Node.js Web scraping script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fedor Makareev",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FMakareev/Node.js-Web-scraping-script.git"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "del": "^3.0.0",
+    "needle": "^2.0.0"
+  }
+}
